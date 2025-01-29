@@ -9,3 +9,4 @@ Settings View:
 Clicking Settings brings up a scrollable dropdown with two options: "Setting 1", "Setting 2".
 Green View:
 Clicking the green.svg button from the Hole View navigates to the Green view, displaying Green1.jpg.
+

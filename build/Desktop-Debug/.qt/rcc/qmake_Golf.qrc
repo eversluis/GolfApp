@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Golf">
+    <file alias="qmldir">C:/Repositories/Golf/build/Desktop-Debug/Golf/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,12 @@
+--resource
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/.qt/rcc/qmake_Golf.qrc
+--resource
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/.qt/rcc/appGolf_raw_qml_0.qrc
+/qt/qml/Golf/Main.qml
+/qt/qml/Golf/Theme.qml
+/qt/qml/Golf/Gauge.qml
+/qt/qml/Golf/Green.qml
+/qt/qml/Golf/Book.qml
+/qt/qml/Golf/Hole.qml
+/qt/qml/Golf/Settings.qml
+/qt/qml/Golf/MenuButton.qml

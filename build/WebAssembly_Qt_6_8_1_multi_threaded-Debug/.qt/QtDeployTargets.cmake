@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appGolf_FILE C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/appGolf.js)
+set(__QT_DEPLOY_TARGET_appGolf_TYPE EXECUTABLE)

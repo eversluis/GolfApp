@@ -1,0 +1,14 @@
+-rootPath
+C:/Repositories/Golf
+-cmake-output
+-output-file
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/.qt/qml_imports/appGolf_conf.cmake
+-importPath
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/Golf
+-importPath
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug
+-importPath
+C:/Qt/6.8.1/wasm_multithread/qml
+-qrcFiles
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/.qt/rcc/qmake_Golf.qrc
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/.qt/rcc/appGolf_raw_qml_0.qrc

@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 12,
+                        "durationMicroseconds": 15154,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 141,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 9
+                    }
+                ],
+                "filepath": "C:/Repositories/Golf/Green.qml"
+            }
+        ],
+        "moduleId": "Golf(appGolf)"
+    }
+]

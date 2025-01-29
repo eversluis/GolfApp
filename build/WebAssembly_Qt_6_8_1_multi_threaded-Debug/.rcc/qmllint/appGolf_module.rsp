@@ -1,0 +1,10 @@
+-I
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug
+-I
+C:/Qt/6.8.1/wasm_multithread/qml
+--resource
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/.qt/rcc/qmake_Golf.qrc
+--resource
+C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/.qt/rcc/appGolf_raw_qml_0.qrc
+--module
+Golf

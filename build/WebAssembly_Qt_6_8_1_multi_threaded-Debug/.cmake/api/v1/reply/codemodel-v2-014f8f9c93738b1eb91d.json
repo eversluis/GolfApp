@@ -1,0 +1,178 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0840116b2a4517f40b71.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GolfApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-b48bbcfb7d146b176a78.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3832d5ec3809932b5da0.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-56162e1dd0aa8e450ce0.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-686f486bbb2864edaaf2.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c4c86f1a6cece5931955.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf-Debug-0e554dda71d6570e5f59.json",
+					"name" : "appGolf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf_autogen-Debug-bab28151991f96c8afbb.json",
+					"name" : "appGolf_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf_autogen_timestamp_deps-Debug-eee072d627aa4a4fd67a.json",
+					"name" : "appGolf_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf_qmllint-Debug-33b6f1d87ef6947e5f78.json",
+					"name" : "appGolf_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf_qmllint_json-Debug-16b9ba48c3bae7e5d8e0.json",
+					"name" : "appGolf_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf_qmllint_module-Debug-5ba026eade692a8334df.json",
+					"name" : "appGolf_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf_qmltyperegistration-Debug-8b09f4ee3697a7307245.json",
+					"name" : "appGolf_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appGolf_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appGolf_tooling-Debug-51ee99809afb7dbcc982.json",
+					"name" : "appGolf_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appGolf_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appGolf_aotstats_target-Debug-943580d6a5f70c793ba7.json",
+					"name" : "module_appGolf_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug",
+		"source" : "C:/Repositories/Golf"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

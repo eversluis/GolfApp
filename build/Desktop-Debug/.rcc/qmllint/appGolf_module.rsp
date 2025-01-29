@@ -1,0 +1,10 @@
+-I
+C:/Repositories/Golf/build/Desktop-Debug
+-I
+C:/Qt/6.8.1/mingw_64/qml
+--resource
+C:/Repositories/Golf/build/Desktop-Debug/.qt/rcc/qmake_Golf.qrc
+--resource
+C:/Repositories/Golf/build/Desktop-Debug/.qt/rcc/appGolf_raw_qml_0.qrc
+--module
+Golf

@@ -1,0 +1,11 @@
+App Overview: Build an app for golf with 4 main views: Book, Green, Hole, and Settings. Use a sidebar for navigation between these views. The icons and QMLs are placeholders, feel free to adjust as needed.
+
+Requirements:
+Hole View:
+Clicking the flag.svg button navigates to the Hole view, displaying Hole1.jpg and a title: “Hole 1” above the image.
+Book View:
+Clicking Book shows the full course map: book.jpg.
+Settings View:
+Clicking Settings brings up a scrollable dropdown with two options: "Setting 1", "Setting 2".
+Green View:
+Clicking the green.svg button from the Hole View navigates to the Green view, displaying Green1.jpg.

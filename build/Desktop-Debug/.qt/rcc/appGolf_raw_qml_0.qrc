@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/qt/qml/Golf/">
+    <file alias="Main.qml">C:/Repositories/Golf/Main.qml</file>
+    <file alias="Theme.qml">C:/Repositories/Golf/Theme.qml</file>
+    <file alias="Gauge.qml">C:/Repositories/Golf/Gauge.qml</file>
+    <file alias="Green.qml">C:/Repositories/Golf/Green.qml</file>
+    <file alias="Book.qml">C:/Repositories/Golf/Book.qml</file>
+    <file alias="Hole.qml">C:/Repositories/Golf/Hole.qml</file>
+    <file alias="Settings.qml">C:/Repositories/Golf/Settings.qml</file>
+    <file alias="MenuButton.qml">C:/Repositories/Golf/MenuButton.qml</file>
+    <file alias="images/book.svg">C:/Repositories/Golf/images/book.svg</file>
+    <file alias="images/flag.svg">C:/Repositories/Golf/images/flag.svg</file>
+    <file alias="images/green.svg">C:/Repositories/Golf/images/green.svg</file>
+    <file alias="images/Hole1.jpg">C:/Repositories/Golf/images/Hole1.jpg</file>
+    <file alias="images/Green1.jpg">C:/Repositories/Golf/images/Green1.jpg</file>
+    <file alias="images/book.jpg">C:/Repositories/Golf/images/book.jpg</file>
+  </qresource>
+</RCC>
+

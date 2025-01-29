@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Golf">C:/Repositories/Golf/build/WebAssembly_Qt_6_8_1_multi_threaded-Debug/Golf</file>
+
+  </qresource>
+</RCC>

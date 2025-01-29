@@ -1,0 +1,12 @@
+module Golf
+typeinfo appGolf.qmltypes
+prefer :/qt/qml/Golf/
+Main 1.0 Main.qml
+singleton Theme 1.0 Theme.qml
+Gauge 1.0 Gauge.qml
+Green 1.0 Green.qml
+Book 1.0 Book.qml
+Hole 1.0 Hole.qml
+Settings 1.0 Settings.qml
+MenuButton 1.0 MenuButton.qml
+

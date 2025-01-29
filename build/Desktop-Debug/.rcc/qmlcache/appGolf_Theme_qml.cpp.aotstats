@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 42,
+                        "durationMicroseconds": 291,
+                        "errorMessage": "",
+                        "functionName": "borderColor",
+                        "line": 29
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 101,
+                        "errorMessage": "",
+                        "functionName": "iconSelectedColor",
+                        "line": 32
+                    }
+                ],
+                "filepath": "C:/Repositories/Golf/Theme.qml"
+            }
+        ],
+        "moduleId": "Golf(appGolf)"
+    }
+]
